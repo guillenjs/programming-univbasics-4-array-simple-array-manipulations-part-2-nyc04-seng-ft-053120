@@ -12,7 +12,6 @@ end
 
 def using_flatten(array)
   array.flatten
-binding.pry
 end
 
 def using_delete(array, string)
