@@ -16,7 +16,6 @@ end
 
 def using_delete(array, string)
   array.delete(string)
-  binding.pry
 end
 
 def using_delete_at(array, integer)
