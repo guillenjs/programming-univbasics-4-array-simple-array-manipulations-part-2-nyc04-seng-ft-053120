@@ -16,4 +16,5 @@ end
 
 def using_delete(array, string)
   array.delete(string)
+  binding.pry
 end
