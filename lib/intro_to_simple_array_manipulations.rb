@@ -12,5 +12,5 @@ end
 
 def using_flatten(array)
   array.flatten
-
+binding.pry
 end
